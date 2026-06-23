@@ -1,6 +1,6 @@
 # Repositorio
 
-El propósito de este repositorio es demostrar cómo se puede convertir un MSG a PDF, extraer sus archivos adjuntados y convertirlos a PDF antes de volver a adjuntarlos.
+El propósito de este repositorio es demostrar cómo se puede convertir un EML a PDF, extraer sus archivos adjuntados y convertirlos a PDF antes de volver a adjuntarlos.
 
 ## Requisitos previos
 
