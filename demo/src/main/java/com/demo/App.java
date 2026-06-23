@@ -26,7 +26,7 @@ public class App {
             ExceptionLogging.fatalErrorStopProgram(e);
         }
 
-        String inputMsg = "msg_with_attachment.msg";
+        String inputMsg = "msg_with_attachment.eml";
         String outputPdf = "msg_with_attachment.pdf";
         EmailToPDFConversion.convert(paths, inputMsg, outputPdf);
 
